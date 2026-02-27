@@ -1,0 +1,5 @@
+Este es un archivo de texto de prueba.
+Sirve para verificar la integración con GitHub.
+
+Línea extra para ver cambios en el diff.
+
